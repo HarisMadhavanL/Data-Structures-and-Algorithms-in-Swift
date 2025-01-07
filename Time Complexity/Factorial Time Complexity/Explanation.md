@@ -1,0 +1,2 @@
+* When you run the function with the array ```[1, 2, 3, 4]```, you will get all **24 permutations** of the array, as there are ```4! = 24``` possible ways to arrange the four numbers.
+* As expected, the time complexity of generating permutations is factorial. With each added element, the number of permutations increases significantly, which is why **O(n!)** grows very quickly as ```n``` increases.
