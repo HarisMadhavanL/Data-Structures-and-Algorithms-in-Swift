@@ -16,10 +16,10 @@
 For ```n=10``` and ```n=30```:
 ```
 Calculating Fibonacci(10)
-Recursive Result: 55, Time: 0.00003 seconds
-Iterative Result: 55, Time: 0.00001 seconds
+Recursive Result: 55, Time: 0.04624605178833008 seconds
+Iterative Result: 55, Time: 0.002193927764892578 seconds
 
 Calculating Fibonacci(30)
-Recursive Result: 832040, Time: 0.04823 seconds
-Iterative Result: 832040, Time: 0.00001 seconds
+Recursive Result: 832040, Time: 7.693338990211487 seconds
+Iterative Result: 832040, Time: 0.0005069971084594727 seconds
 ```
